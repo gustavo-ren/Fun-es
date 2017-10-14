@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508024358 source:c:\users\gustavo\documents\netbeansprojects\functionsudemy\main.cpp
+	<iostream>
+	<math.h>
+
